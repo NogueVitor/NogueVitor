@@ -40,14 +40,15 @@
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NogueVitor/NogueVitor/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NogueVitor/NogueVitor/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/NogueVitor/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/NogueVitor/output/github-contribution-grid-snake.svg" style="max-height: 150px;">
   </picture>
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJldDllMGlyY3N3NXZlbnR3b2wxZDg4bXFmZXU0ajNyZ25jd2cwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJldDllMGlyY3N3NXZlbnR3b2wxZDg4bXFmZXU0ajNyZ25jd2cwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" style="height: 150px;">
 </div>
+
 
 <!--
 **NogueVitor/NogueVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
