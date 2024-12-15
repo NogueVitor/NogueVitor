@@ -41,11 +41,6 @@
 <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJldDllMGlyY3N3NXZlbnR3b2wxZDg4bXFmZXU0ajNyZ25jd2cwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/NogueVitor/NogueVitor/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--
 **NogueVitor/NogueVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
