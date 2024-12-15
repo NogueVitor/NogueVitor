@@ -6,6 +6,9 @@
 
 <h1 align="left">Olá! Sou o Vitor, um dev júnior com entusiasmo por aprender.</h1>
 
+# Curiosidades sobre mim:
+🎓 Graduando na Universidade Federal do Ceará<br>🎲 Entusiasta de Machine Learning<br>💻Futuro dev Full Stack<br><br>
+
 ###
 
 <div align="center">
