@@ -36,6 +36,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/NogueVitor/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/NogueVitor/output/github-contribution-grid-snake.svg">
 </picture>
+<br><br>
+
 ###
 
 <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJldDllMGlyY3N3NXZlbnR3b2wxZDg4bXFmZXU0ajNyZ25jd2cwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
