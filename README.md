@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Olá! Sou o Vitor, um dev júnior com entusiasmo por aprender.</h2>
+<h1 align="left">Olá! Sou o Vitor, um dev júnior com entusiasmo por aprender.</h1>
 
 ###
 
