@@ -16,7 +16,10 @@
 
 ###
 
-Sou estudante de Ciência da Computação na Universidade Federal do Ceará e entusiasta de tecnologia. Minha atuação profissional e acadêmica se concentra em três áreas principais. Como Desenvolvedor Full Stack na [CEOS](https://ceosjr.com/), eu atuo no desenvolvimento de aplicações web, trabalhando com tecnologias como Django, Flask e React. No grupo de extensão [RAITec](https://www.instagram.com/raitec.ufc/), desenvolvo projetos de automação com Machine Learning sem fins lucrativos, buscando aplicar a tecnologia para gerar um impacto positivo na comunidade. Adicionalmente, como Bolsista no [GREat](https://www.great.ufc.br/), eu contribuo na Fábrica de Testes de Segurança com foco na análise de vulnerabilidades em sistemas e automação de testes para garantir a qualidade e a segurança do software.
+Sou estudante de Ciência da Computação na Universidade Federal do Ceará e entusiasta de tecnologia. Minha atuação profissional e acadêmica se concentra em três áreas principais. Como Desenvolvedor Full Stack na [CEOS](https://ceosjr.com/), eu atuo no desenvolvimento de aplicações web, trabalhando com tecnologias como Django, Flask e React. No grupo de extensão [RAITec](https://www.instagram.com/raitec.ufc/), desenvolvo projetos de automação com Machine Learning sem fins lucrativos, buscando aplicar a tecnologia para gerar um impacto positivo na comunidade. Adicionalmente, como Bolsista no [GREat](https://www.great.ufc.br/), eu contribuo na Fábrica de Testes de Segurança com foco na análise de vulnerabilidades em sistemas e automação de testes para garantir a qualidade e a segurança do software.   
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noguevitor)
 
 ###
 
